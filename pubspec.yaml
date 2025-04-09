@@ -1,6 +1,6 @@
 name: rounded_path_builder
 description: A Flutter utility to create rounded polygon paths from a list of points.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/LOCKEDFILE/rounded_path_builder
 
 environment:

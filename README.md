@@ -85,7 +85,8 @@ final path = RoundedPathBuilder.fromPoints(
 );
 ```
 
-![image](./assets/rrect.png)
+![Rounded Path Example](https://raw.githubusercontent.com/lockedfile/rounded_path_builder/main/assets/rrect.png)
+
 
 ### CustomPath
 
@@ -107,4 +108,4 @@ final path = RoundedPathBuilder.fromPoints(
 );
 ```
 
-![image](./assets/custom.png)
+![Custom Path Example](https://raw.githubusercontent.com/lockedfile/rounded_path_builder/main/assets/custom.png)
